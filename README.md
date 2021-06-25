@@ -1,7 +1,7 @@
 # Java_Practice
 Baekjoon &amp; Programmers &amp; Algorithm Practice
 
-I'm just student of java programming and beginner.
+I'm just a student of java programming and beginner.
 It's been three months since I started studying.
 So I wanted to write down my record.
 
