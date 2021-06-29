@@ -80,7 +80,7 @@ public class BlackJack2798 {
 					System.exit(0);
 				}
 				for (int k = j + 1; k < list.size(); k++) {
-					if (sum + list.get(k) > m)
+					if (sum + list.get(k) > m) // 3개의 합이 m보다 크면 뒤는 자동으로 조건 탈락
 						break;
 					if (sum + list.get(k) > max) // i + j + k가 max보다 크면 max 값 변경
 						max = sum + list.get(k);
